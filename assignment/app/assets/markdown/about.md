@@ -34,9 +34,9 @@ About Page
 
 [Coca-Cola Journey](https://users.sussex.ac.uk/~hp325/3dapp/assignment/app/index.php)
 
-[GitHub Repo](https://github.com/hakanp325/3d_app/tree/master/3dapp/assignment/app)
+[GitHub Repo](https://github.com/hakanp325/3d_app/tree/main/assignment/app)
 
-[3D Models](https://github.com/hakanp325/3d_app/tree/master/3dapp/assignment/app/assets/3d_models)
+[3D Models](https://github.com/hakanp325/3d_app/tree/main/assignment/app/assets/3d_models)
 
   
 
